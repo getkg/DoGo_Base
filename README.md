@@ -1,12 +1,12 @@
-## 请仔细阅读 [WIKI](https://github.com/EvineDeng/jd-base/wiki) 和各文件注释，95%的问题都能找到答案
+## 请仔细阅读 [WIKI](https://github.com/RikudouPatrickstar/jd-base/wiki) 和各文件注释，95%的问题都能找到答案
 
 ## 如有二次使用，请注明来源
 
-本脚本是以下两个仓库的shell套壳工具：
+本脚本是以下~~两个~~仓库的shell套壳工具：
 
-[LXK9301/jd_scripts](https://github.com/LXK9301/jd_scripts)：主要是长期任务。
+[lxk0301/jd_scripts](https://gitee.com/lxk0301/jd_scripts)：主要是长期任务。
 
-[shylocks/Loon](https://github.com/shylocks/Loon)：主要是短期任务、一次性任务，正因为是短期的和一次性的，所以经常会有报错，报错就报错了，不要催我也不要去催[shylocks](https://github.com/shylocks)大佬。
+~~[shylocks/Loon](https://github.com/shylocks/Loon)：主要是短期任务、一次性任务，正因为是短期的和一次性的，所以经常会有报错，报错就报错了，不要催我也不要去催[shylocks](https://github.com/shylocks)大佬。~~
 
 ## 适用于以下系统
 
@@ -20,15 +20,9 @@
 
 - Docker
 
-## 说明
-
-1. 宠汪汪赛跑助力先让用户提供的各个账号之间相互助力，助力完成你提供的所有账号以后，再给我和lxk0301大佬助力，每个账号助力后可得30g狗粮。
-
-2. 将部分临时活动修改为了我的邀请码，已取得lxk0301大佬的同意。
-
 ## 如有帮助你薅到羊毛，请不吝赏作者一杯茶水费
 
-![thanks](https://github.com/EvineDeng/jd-base/wiki/Picture/thanks.png)
+![thanks](https://github.com/RikudouPatrickstar/jd-base/wiki/Picture/thanks.png)
 
 ## 更新日志
 
