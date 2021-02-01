@@ -30,7 +30,7 @@ SendCount=${ShellDir}/send_count
 isTermux=${ANDROID_RUNTIME_ROOT}${ANDROID_ROOT}
 Scripts2URL=https://github.com/shylocks/Loon
 ScriptsURL=https://gitee.com/lxk0301/jd_scripts
-ShellURL=https://github.com/RikudouPatrickstar/jd-base
+ShellURL=https://github.com/getkg/DoGo_Base
   
 
 ## 更新shell脚本
